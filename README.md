@@ -2,6 +2,7 @@
 Iniciação Científica - Análise de vulnerabilidades de segurança presentes no StackOverflow
 
 Resumo
+
 Com os avanços tecnológicos, as vulnerabilidades se tornaram mais complexas e perigosas, tal afirmação pode ser comprovada ao observar a rápida disseminação dos vírus, que estão mais sofisticados. Uma alternativa para amenizar esse problema foi a criação do NVD (National Vulnerability Database) que é o repositório de dados de gerenciamento de vulnerabilidade do governo dos Estados Unidos. Esses dados permitem a automação desse gerenciamento, além de medidas de segurança e conformidade, como por exemplo, a correção de falhas encontradas em um determinado software, com objetivo de deixá-lo seguro e funcional.
 
 
